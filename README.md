@@ -1,12 +1,8 @@
 # ☕ My Java Projects
-
 A collection of Java projects and programs I've built while learning Java.
-
 ## 🔧 Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ## 📂 Projects
-
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [Banking Program](./Projects/src/Banking_program.java) | A banking system program |
@@ -16,14 +12,11 @@ A collection of Java projects and programs I've built while learning Java.
 | 5 | [Number Guessing Game](./Projects/src/Number_guessing_game.java) | A number guessing game |
 | 6 | [Random Number](./Projects/src/Random_number.java) | Random number generator |
 | 7 | [Weight Converter](./Projects/src/Weight_converter.java) | A weight converter tool |
-
+| 8 | [Hangman](./Hangman/Hangman.java) | A classic word-guessing game with ASCII art |
 ## 🚀 How to Run
-
 ```bash
 javac filename.java
 java filename
 ```
-
 ---
-
 > This repo is updated as I build more Java projects. Stay tuned! 💪
