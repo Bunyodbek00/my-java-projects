@@ -12,7 +12,7 @@ A collection of Java projects and programs I've built while learning Java.
 | 5 | [Number Guessing Game](./Projects/src/Number_guessing_game.java) | A number guessing game |
 | 6 | [Random Number](./Projects/src/Random_number.java) | Random number generator |
 | 7 | [Weight Converter](./Projects/src/Weight_converter.java) | A weight converter tool |
-| 8 | [Hangman](./Projects/src/hangman.java) | A classic word-guessing game with ASCII art |
+| 8 | [Hangman](./Projects/src/Hangman.java) | A classic word-guessing game with ASCII art |
 ## 🚀 How to Run
 ```bash
 javac filename.java
